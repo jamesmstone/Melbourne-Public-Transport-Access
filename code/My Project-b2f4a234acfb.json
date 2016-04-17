@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "steel-analyst-128405",
+  "private_key_id": "b2f4a234acfb5f974034b15f0e1772313a83d03a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDQd6nJDYJcNlwn\n2JXH/QgvZpEbSz9mO6bUMixzjOfVde6n6TA5f0+8l/ag7vnZwyzIFD8wRTr/ScMx\nRp4RVYgKLtQRbaIfHRiBB2In1vC29y1lqP/Gt3WVy7j33nGP139XvTnTWXNHVG1C\nfN+m9cY1clUnkXCqnQiwK7c6RKSTp2nfEKcFWkdN4RSl9Aksa1yLkgsVuC/WvSJm\nyS/WJsS1lFvnntCN6oVgPJJ2xiOZunPjAM65r5BYpGYuK3yEHhay/gVh2XSaOoVE\nYGej59dPzCUsS9qNwDeDIPud7ydcxtUxtCZuHBlKU8tPF3BPkX3jut8zfxv9RWiI\nlI/RTCJrAgMBAAECggEAczC8A5lQYA21jFr0IKajgDWnlrJUnPP3MidrQooojF32\n+pcyi4Lal3ZM1A5Yxsg/FWuCovSOLgQfNDo2G5PscNwBWIQA4jpckOd4iFUPe7pH\nPnZMpww2kAga8/PZQkcsWVn4+tzhgxeWq/d+Sa5i0KOVhCCsZcoRw+7T9wF5AxCt\n7eWezuTO0qYLnsl6niNtP8z/r4Rch77NwQ0jc+kB8nhcy8u9gSAjgiKjeT6x1uxL\ncUEGcfO7upaw1neF8N+l6kiZu0CSYA9n8Z0gvJMPJYgQLy9iFKvilpSp+5/s8367\n+Q2MAoJMA43JSCPyQqKE4t1YLC/aybU0r0yW8XiXoQKBgQD2X5L9CU8nLSOl2vrq\njcKLCeOdP5mLEe8JgVVWWJ+t2C2d5VjrhTAqfJI17Bgm6PSB/feGYRVXFAWq+G+j\nRB3Cp8vXtaVkHOpKzK3HpMqEQ14w7QNqosBRfmmdKGUXviIKqgij4phmGRcwwA9p\nlKpBof5M7A6XThsg589DpRR90QKBgQDYnOxp2v19qIq3QRQ2m8n8Fx/RIo8+K+ax\n4GuC5fkeLZ1EBvo1crox7Y3q3lJ9HST3t0QzPMT3g6zTDbDYj70YBNgZ+osE7T//\nTfltr8GWmTSsdsQI4C1A0fFh8wbdezqUMmrz6im2Gx5Mg6tdyMK4BeopNFv9QQTI\nEsZtSrl/ewKBgQDO62JGRoVF//FKoOnQCRN1Nu8F6J6KYJuEPi1wAarKlR9q126h\nEBFt/YXG5+048Lo6WxSCthL4OYaxG0qXsuPT0p2vI44u0OItxE3HuS2le/cl3Enc\nS6h+SU9mgMC2+icZEcmD6xHX3gbOGOBY6lU8HlO4QyHWDfFW55n51DGroQKBgQCH\nUyoDS9OX4Gag6+Bj6Vn7yrqO3iddMPIT6F9iTKggqWCZsj44i+805/MEa1ZfYYjJ\n1U2fMPTgqPuccu4rrUj2K3iSakrVjh6wMheE5gtsOVSF9kCsRtkeqMpDZh/A2I6V\nLRZSQdVDNpfsN0ok8hpr+w36JgLeKfOBxvD+MHPI5wKBgQCdxtiMsWmMrj55F+ef\nYDWCePCaV/yy6dpA4lrP29m7oz9Wppjc0sDYelgMJcGGndRaSYKD1R3d3WCRlzAg\n2PN/OsAhG9CxChCmPW2pKAIkRkogRc5+RXvHpMkn8ACZlv0O4+j6rxvkk6SOID32\nWgD0+MJXFz+Wfha/KGIcXMvSfg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "newserviceaccountforuniassignm@steel-analyst-128405.iam.gserviceaccount.com",
+  "client_id": "109183726554849393363",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/newserviceaccountforuniassignm%40steel-analyst-128405.iam.gserviceaccount.com"
+}
